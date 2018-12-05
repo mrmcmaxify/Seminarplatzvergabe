@@ -63,8 +63,8 @@ class Container
       'pdo' => function() {
         try {
           $pdo = new PDO(
-            'mysql:host=localhost;dbname=Seminarplatzvergabe;',
-            'Seminarplatzvergabe',
+            'mysql:host=localhost;dbname=seminarplatzvergabe;charset=utf8',
+            'root',
             ''
           );
         } catch (PDOException $e) {
