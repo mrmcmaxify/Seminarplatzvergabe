@@ -28,6 +28,7 @@
   </div>
 
   <input type="submit" value="Einloggen" class="btn btn-primary" />
+  <input type="submit" value="Passwort vergessen" class="btn btn-primary" />
 </form>
 
 <?php require __DIR__ . "/../layout/footer.php"; ?>
