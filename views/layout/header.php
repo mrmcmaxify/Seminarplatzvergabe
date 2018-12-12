@@ -26,8 +26,7 @@
   </head>
 
   <body>
-
-     <nav class="navbar navbar-expand-lg">
+     <nav class="navbar navbar-expand-lg navbar-dark"  style="background-color: #fd8900;">
       <div class="container">
         <a class="navbar-brand" href="#">Seminarplatzvergabe</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample07" aria-controls="navbarsExample07" aria-expanded="false" aria-label="Toggle navigation">
