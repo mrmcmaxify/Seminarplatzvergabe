@@ -109,7 +109,7 @@
 
             <h4 class="mb-3">Passwort</h4>
 
-
+<!-- Passwort abfrage, Überprüfung fehlt -->
 <div class="row">
   <div class="col-md-6 mb-3">
     <label for="cc-name">Passwort</label>
