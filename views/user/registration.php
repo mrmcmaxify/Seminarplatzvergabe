@@ -1,10 +1,6 @@
 <?php require __DIR__ . "/../layout/header.php"; ?>
 
 
-
-
-
-
     <div class="container">
       <div class="py-5 text">
         <img class="d-block mx-auto mb-4" src="../../assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
@@ -183,7 +179,6 @@
   </body>
 </html>
 
-<br/>
-<br/>
+
 <?php require(__DIR__ . "/../layout/footer.php"); ?>
 
