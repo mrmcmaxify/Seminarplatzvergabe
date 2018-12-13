@@ -64,8 +64,8 @@ class Container
         try {
           $pdo = new PDO(
             'mysql:host=localhost;dbname=seminarplatzvergabe;charset=utf8',
-            'root',
-            ''
+            'seminarplatzvergabe',
+            '7QrsAJIYSw8Q7z80'
           );
         } catch (PDOException $e) {
           echo "Verbindung zur Datenbank fehlgeschlagen";

@@ -1,6 +1,6 @@
 <?php require __DIR__ . "/../layout/header.php"; ?>
 
-
+<!-- Kopfzeile mit Info -->
     <div class="container">
       <div class="py-5 text">
         <img class="d-block mx-auto mb-4" src="../../assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
@@ -8,7 +8,7 @@
         <p class="lead">Irgend eine Info</p>
       </div>
 
-      
+      <!-- Formularfelder -->
         <div class="col-md-8 order-md-1">
           <h4 class="mb-3">Persönliche Daten</h4>
           <form class="needs-validation" novalidate>
@@ -26,14 +26,6 @@
                 <div class="invalid-feedback">
                   Nachname wird benötigt.
                 </div>
-              </div>
-            </div>
-
-            <div class="mb-3">
-              <label for="email">RZ-Kennung</label>
-              <input type="email" class="form-control" id="email" placeholder="">
-              <div class="invalid-feedback">
-               RZ-Kennung wird benötigt.
               </div>
             </div>
 
